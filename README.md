@@ -105,4 +105,4 @@ References
 
 ### License
 
-ARL Creative Visual Storytelling Anthology 1.0 is licensed under the Creative Commons Zero 1.0 Universal (CC0 1.0) license. Please see [LICENSE](license) for details.
+ARL Creative Visual Storytelling Anthology 1.0 is licensed under the Creative Commons Zero 1.0 Universal (CC0 1.0) license. Please see [LICENSE](LICENSE) for details.
