@@ -32,7 +32,7 @@ If you would like to publish experiments or analysis with the ARL Creative Visua
 - [Dataset Contents](#dataset-contents)
 - [License](#license)
 
-### ARL Creative Visual Storytelling Anthology Description
+#### ARL Creative Visual Storytelling Anthology Description
 
 We formulated an experimental protocol to crowdsource an anthology of human-authored stories from a sequence of three images. We defined four facets of creative visual storytelling from a sequence of images: Entity, Scene, Narrative, and Title. Our facets were designed with both humans and computers in mind, based on the human-process of image understanding and creative storytelling as well as a modular methodology that AI technologies (computer vision, natural language generation, natural language processing, and machine learning) can execute. The selected images represent not only canonical Flickr images, but also non-canonical image sources of a Search-and-Rescue (SAR) scenario. Each item in the anthology contains all text written by each author for the four facets that accompanied a given image sequence. The table below exemplifies one item in the anthology: a complete set of author responses for each facet for a particular image-set.
 
@@ -61,7 +61,7 @@ The anthology was crowdsourced using a Human Intelligence Task (HIT) on Amazon M
 ![image](media/stats.png)
 
 
-### Image Provenance
+#### Image Provenance
 
 The first set of images used in collecting the anthology originated from Flickr, under Creative Commons Licenses. These images are high-quality resolution, depicting everyday scenery and touring. We chose a subset of Huang et al’s VIST dataset [1] and downselected their image sequences from five to three images to scaffold the Aristotelian dramatic structure. Most photographs did not contain images of people, and most images with people and children clearly in focus were removed to protect privacy. While the images are licensed for use, the people in them could not know that they were being shown to researchers or AMT workers, and we wanted to limit personal exposure. We will not release the Flickr images to track the providence of the images. **The Flickr images' authors and copyright information and usage are documented in the Flickr imageset license spreadsheet.**
 
@@ -77,7 +77,7 @@ References
 
 #### Dataset Contents
 
-[**data/Anthology - 100 Visual Stories.xlsx**](data/Anthology-100-visual-stories.xlsx)
+[**data/Anthology - 100 Visual Stories.xlsx**](https://github.com/USArmyResearchLab/ARL-Creative-Visual-Storytelling/tree/main/data/Anthology%20-%20100%20Visual%20Stories.xlsx)
 - The entire ARL Creative Visual Storytelling Anthology, an Excel spreadsheet, where one row contains an authors response to the facets per imageset. A screenshot of a subset of entries from the spreadsheet is shown in the figure below, followed by a description of each column
 ![image](media/anthology.png)
 
@@ -92,10 +92,10 @@ References
 	- **Col O:** The Title Facet response
 
 
-[**data/Author Story IDs.xlsx**](data/Author-Story-IDs.xlsx)
+[**data/Author Story IDs.xlsx**](https://github.com/USArmyResearchLab/ARL-Creative-Visual-Storytelling/tree/main/data/Author%20Story%20IDs.xlsx)
 - Statistics about the number of stories written by each author, and the item id's
 
-[**data/Flickr Imageset License.xlsx**](data/Flickr-Imageset-License.xlsx)
+[**data/Flickr Imageset License.xlsx**](https://github.com/USArmyResearchLab/ARL-Creative-Visual-Storytelling/tree/main/data/Flickr%20Imageset%20License.xlsx)
 - The image provinance and current copyright information for the Flickr imagesets
 
 
